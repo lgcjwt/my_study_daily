@@ -13,3 +13,7 @@
 ### 2.golang 
 + 2.1 [projects](go/projects)
 + 2.1.1 [test_mux](go/projects/test_mux/test_mux.go)
+
+### 3.homework
++ 3.1 [home_decoration](homework/home_decoration)
++ 3.1.1 [demands](homework/home_decoration/demands.md)
