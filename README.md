@@ -17,3 +17,4 @@
 ### 3.homework
 + 3.1 [home_decoration](homework/home_decoration)
 + 3.1.1 [demands](homework/home_decoration/demands.md)
++ 3.1.1 [favours](homework/home_decoration/favours.md)
