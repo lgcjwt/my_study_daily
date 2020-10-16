@@ -1,10 +1,11 @@
-### 数组、链表，简单
+### 数组、链表
+##### 简单
  + [remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
  + [rotate-array](https://leetcode-cn.com/problems/rotate-array/)
  + [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
  + [merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/)
 
-### 数组、链表，中等
+##### 中等
  + [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
  + [3sum](https://leetcode-cn.com/problems/3sum/)
 
