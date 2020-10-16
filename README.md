@@ -10,11 +10,29 @@
 + 1.2 [kernel_learning](Linux/kernel_learning)
 + 1.2.1 [kernel源码](Linux/kernel_learning/kernel源码.md)
 
-### 2.golang 
+### 2.golang
 + 2.1 [projects](go/projects)
-+ 2.1.1 [test_mux](go/projects/test_mux/test_mux.go)
 
 ### 3.homework
 + 3.1 [home_decoration](homework/home_decoration)
-+ 3.1.1 [demands](homework/home_decoration/demands.md)
-+ 3.1.1 [favours](homework/home_decoration/favours.md)
++ 3.2 [wedding](homework/wedding)
+
+### 4.docker
++ 4.1 [docker_ruby2_1_1](Docker/docker_ruby2_1_1)
++ 4.2 [rails4_0_13_docker](Docker/rails4_0_13_docker)
++ 4.3 [ruby2_1_1_docker](Docker/ruby2_1_1_docker)
+
+### 5.LeetCode
++ [LeetCode](LeetCode)
+
+### 6.MySql
++ 6.1 [问题记录](mysql/问题记录)
++ 6.2 [学习笔记](mysql/学习笔记)
+
+### 7.Java
++ 7.1 [Java基础](java/Java基础)
++ 7.2 [Spring](java/Spring)
++ 7.3 [Mybatis](java/Mybatis)
+
+### 8.RabbitMQ
++ 8.1 [RabbitMQ理论](rabbitmq/RabbitMQ理论)
