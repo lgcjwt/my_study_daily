@@ -3,6 +3,11 @@
 -------------------------------------------
 ## contents
 
+### 0.面试问题
++ 0.1 [Java相关](面试问题/Java面试复习.md)
++ 0.2 [MySql相关](面试问题/MySql面试复习.md)
++ 0.3 [算法和数据结构](面试问题/算法和数据结构.md)
+
 ### 1.Linux
 + 1.1 [nice_ubuntu_tools](Linux/nice_ubuntu_tools)
 + 1.1.1 [番茄工作钟](Linux/nice_ubuntu_tools/番茄工作钟.md)
