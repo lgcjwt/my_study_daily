@@ -1,7 +1,7 @@
 ### 数组、链表
 ##### 简单
  + OK [26 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
- + [rotate-array](https://leetcode-cn.com/problems/rotate-array/)
+ + OK [189 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
  + [merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
  + [merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/)
 
