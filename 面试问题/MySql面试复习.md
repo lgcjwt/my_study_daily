@@ -25,3 +25,11 @@
   + 锁    my锁的粒度只到表，in支持，表锁，行锁
   + select delete inserte update my在delete时会重建表，大量select更合适。in适合大量insert和update
   + 对自增主键的处理。my自增主键可以是联合索引里的值。in中自增主键必须是单独的索引
+
+### 3.innoDB 数据记录格式
+  + compact
+  + redundant
+  + compressed（zlib算法压缩大长度数据）
+  + dynamic
+  + 前两种blob类型的数据，前768字节在行记录中存储，其余的在blob page中存储。
+  + 后两种blob类型的数据，前20字节放在行记录中，其余的放在off page中

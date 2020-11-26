@@ -19,3 +19,12 @@
   + 如果链表数组的长度小于64只会resize()(扩大两倍)
   + 哈希算法，hashcode与自身右移16位后异或的值：static final int hash(Object key) {int h;  return (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);}
   + 1.8中，初始化链表数组是在resize中，也是在resize中重新定义扩容的界限。
+
+### 4.如何理解synchronized
+  + 悲观锁，非公平锁
+  + synchronized 天生具有可重入性
+  + jvm字节码级别，代码块：入monitorenter, 出monitorexit。方法：标志位
+  + 作用于普通方法，锁实例；作用于静态方法，锁类；作用于对象实例，锁用到对象实例的代码块。
+
+### 5.concurrentHashMap底层原理
+
