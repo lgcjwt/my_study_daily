@@ -6,7 +6,7 @@
  + OK [88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 
 ##### 中等
- + [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+ + OK [24 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
  + [3sum](https://leetcode-cn.com/problems/3sum/)
 
 ### Map & Set
