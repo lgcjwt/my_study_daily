@@ -7,7 +7,7 @@
 
 ##### 中等
  + OK [24 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
- + [3sum](https://leetcode-cn.com/problems/3sum/)
+ + OK [15 三数之和](https://leetcode-cn.com/problems/3sum/)
 
 ### Map & Set
  + [valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)
