@@ -14,7 +14,7 @@
  + OK [49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 
 ### 堆栈、队列
- + [remove-all-adjacent-duplicates-in-string](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
+ + OK [1047 删除字符串中所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
  + [remove-outermost-parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
  + [largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
  + [trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/)
