@@ -10,7 +10,7 @@
  + OK [15 三数之和](https://leetcode-cn.com/problems/3sum/)
 
 ### Map & Set
- + [valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)
+ + OK [242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
  + [group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)
 
 ### 堆栈、队列
