@@ -15,7 +15,7 @@
 
 ### 堆栈、队列
  + OK [1047 删除字符串中所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
- + [remove-outermost-parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
+ + OK [1021 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
  + [largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
  + [trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/)
 
