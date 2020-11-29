@@ -11,7 +11,7 @@
 
 ### Map & Set
  + OK [242 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
- + [group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)
+ + OK [49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 
 ### 堆栈、队列
  + [remove-all-adjacent-duplicates-in-string](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
