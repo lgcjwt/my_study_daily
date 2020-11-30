@@ -20,7 +20,7 @@
  + [trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/)
 
 ### 二分查找
- + [arranging-coins](https://leetcode-cn.com/problems/arranging-coins/)
+ + OK [441 排列硬币](https://leetcode-cn.com/problems/arranging-coins/)
  + [powx-n](https://leetcode-cn.com/problems/powx-n/)
  + [dungeon-game](https://leetcode-cn.com/problems/dungeon-game/)
 
