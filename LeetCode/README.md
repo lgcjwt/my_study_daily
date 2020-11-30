@@ -34,7 +34,7 @@
  + [lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 ### 哈希表
- + [two-sum](https://leetcode-cn.com/problems/two-sum/)
+ + OK [1 两数字之和](https://leetcode-cn.com/problems/two-sum/)
  + [valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)
  + [longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
  + [top-k-frequent-words](https://leetcode-cn.com/problems/top-k-frequent-words)
