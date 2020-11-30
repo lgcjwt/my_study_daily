@@ -21,7 +21,7 @@
 
 ### 二分查找
  + OK [441 排列硬币](https://leetcode-cn.com/problems/arranging-coins/)
- + [powx-n](https://leetcode-cn.com/problems/powx-n/)
+ + OK [50 powx-n](https://leetcode-cn.com/problems/powx-n/)
  + [dungeon-game](https://leetcode-cn.com/problems/dungeon-game/)
 
 ### 递归
