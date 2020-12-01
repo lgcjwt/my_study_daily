@@ -35,7 +35,7 @@
 
 ### 哈希表
  + OK [1 两数字之和](https://leetcode-cn.com/problems/two-sum/)
- + [valid-anagram](https://leetcode-cn.com/problems/valid-anagram/)
+ + OK [242 有效的字符异位词](https://leetcode-cn.com/problems/valid-anagram/)
  + [longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
  + [top-k-frequent-words](https://leetcode-cn.com/problems/top-k-frequent-words)
  + [number-of-atoms](https://leetcode-cn.com/problems/number-of-atoms/)
