@@ -65,7 +65,7 @@
  + [find-median-from-data-stream](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 
 ### DFS
- + [maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+ + OK [104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)(非DFS)
  + [minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
  + [friend-circles](https://leetcode-cn.com/problems/friend-circles/)
  + [find-eventual-safe-states](https://leetcode-cn.com/problems/find-eventual-safe-states/)
