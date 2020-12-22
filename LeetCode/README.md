@@ -93,8 +93,9 @@
  + [search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 
 ### 贪心算法
- + [assign-cookies](https://leetcode-cn.com/problems/assign-cookies/)
- + [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+ + OK [122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)
+ + OK [455 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
+ + OK [714 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
 ### 回朔算法
  + [letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation/)
